@@ -1,0 +1,10 @@
+# Curse Playlist - https://youtu.be/hnVOvvbQrwA?si=IWuVVqD4nP2sNVpg
+
+1. Node Js - Runtime fo Javascript 
+2. Thunder client
+3. Es7
+4. Auto rename tag
+5. Bracket pair
+6. Preetier
+7. npm install
+8. npm install react-router-dom
